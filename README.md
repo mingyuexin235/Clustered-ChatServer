@@ -25,8 +25,6 @@
 CMakeLists：CMake编译文件
 
 编译项目：./autobuild.sh
-![1712129009724](https://github.com/mingyuexin235/Clustered-ChatServer/assets/165785748/e102453d-1fa5-4f66-abb0-0fabb7894cbd)
-
 执行：(多个)客户端：./ChatClient 127.0.0.1 8000
       服务端(1)：./ChatServer 127.0.0.1 6000       
       服务端(2)：./ChatServer 127.0.0.1 6000
