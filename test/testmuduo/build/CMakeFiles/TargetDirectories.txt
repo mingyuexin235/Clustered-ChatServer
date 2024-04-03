@@ -1,0 +1,3 @@
+/home/lihuimin/Project/testmuduo/build/CMakeFiles/rebuild_cache.dir
+/home/lihuimin/Project/testmuduo/build/CMakeFiles/edit_cache.dir
+/home/lihuimin/Project/testmuduo/build/CMakeFiles/server.dir
